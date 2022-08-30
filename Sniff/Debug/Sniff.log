@@ -1,0 +1,14 @@
+﻿  Sniff.cpp
+E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Sniff\library.h(2,1): warning C4005: “HAVE_REMOTE”: 宏重定义
+E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Sniff\Sniff.cpp : message : 参见“HAVE_REMOTE”的前一个定义
+E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Sniff\Decode.h(134,7): warning C4101: “timestr”: 未引用的局部变量
+E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Sniff\Decode.h(166,9): warning C4101: “local_tv_sec”: 未引用的局部变量
+E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Sniff\Decode.h(168,7): warning C4101: “timestr”: 未引用的局部变量
+E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Sniff\Decode.h(167,12): warning C4101: “time”: 未引用的局部变量
+E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Sniff\Sniff.cpp(76,69): warning C4474: printf: 格式字符串中传递的参数太多
+E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Sniff\Sniff.cpp(76,69): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Sniff\Sniff.cpp(166,19): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Sniff\Sniff.cpp(166,19): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Sniff\Sniff.cpp(166,19): message : 缺失的可变参数 1 为格式字符串“%s”所需
+E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Sniff\Sniff.cpp(76): warning C4700: 使用了未初始化的局部变量“ii”
+  Sniff.vcxproj -> E:\计科1911-2019117055-朱周洁_2\代码\Sniff\Debug\Sniff.exe

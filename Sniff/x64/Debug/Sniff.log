@@ -1,0 +1,10 @@
+﻿Sniff.obj : error LNK2019: 无法解析的外部符号 pcap_loop，函数 main 中引用了该符号
+Sniff.obj : error LNK2019: 无法解析的外部符号 pcap_setfilter，函数 main 中引用了该符号
+Sniff.obj : error LNK2019: 无法解析的外部符号 pcap_compile，函数 main 中引用了该符号
+Sniff.obj : error LNK2019: 无法解析的外部符号 pcap_datalink，函数 main 中引用了该符号
+Sniff.obj : error LNK2019: 无法解析的外部符号 pcap_findalldevs，函数 main 中引用了该符号
+Sniff.obj : error LNK2019: 无法解析的外部符号 pcap_freealldevs，函数 main 中引用了该符号
+Sniff.obj : error LNK2019: 无法解析的外部符号 pcap_open，函数 main 中引用了该符号
+E:\winpcap\WpdPack_4_1_2\WpdPack\Lib\wpcap.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+E:\winpcap\WpdPack_4_1_2\WpdPack\Lib\Packet.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+E:\网络编程技术\代码\Sniff\x64\Debug\Sniff.exe : fatal error LNK1120: 7 个无法解析的外部命令
